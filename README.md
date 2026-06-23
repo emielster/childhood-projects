@@ -106,7 +106,7 @@ However, in the summer I spent a lot of time working on a Roblox Game called [*H
 #### Regret
 After the summer, I got busy with school and I didn't do much.
 
-But then, in the winter of 2023, I finally got a new PC. At the time, I believed my old laptop had served it purpose. Most of my projects were still on it, but I didn't think much of it and eventually **sold it**.
+But then, in the winter of 2024, I finally got a new PC. At the time, I believed my old laptop had served it purpose. Most of my projects were still on it, but I didn't think much of it and eventually **sold it**.
 
 Around the same time, I also decided to delete my old GitHub account (https://github.com/Emielster). The reason was that it said that I was 11 years old, even though I wasn't.
 
