@@ -15,4 +15,4 @@
 
 For this game, the build is recovered, but the source code was not synchronized to the OneDrive and has been lost. 
 
-This is a Unity game. **To play it, download the build from the [Releases](https://github.com/emielster/childhood-projects/releases) page.**
+This is a Unity game. **To play it, download the build from the [Releases](https://github.com/emielster/childhood-projects/releases/tag/chrono-apocalypse-2023) page.**
