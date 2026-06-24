@@ -13,7 +13,7 @@
 
 You can try the virus out yourself, it won't do any harm (*even though it says so*). You can check the source code.
 
->**IMPORTANT NOTE**: Most of the project files were kept as-is, although I removed some .exe files to make it source-code only. I also commented out the line in the source code where it shuts down your system to avoid inconvience.
+>**IMPORTANT NOTE**: Most of the project files were kept as-is, although I removed some `.exe` files to make it source-code only. I also commented out the line in the source code where it shuts down your system to avoid inconvenience.
 
 ## Installation
 
