@@ -13,8 +13,7 @@
 ![Year](https://img.shields.io/badge/Year-2022-yellow)
 
 >From main [README.md](../README.md): \
->"When I turned 10, I made games like *CilinderJump*, *Justified Jump*, *Dark Rings*, *FPS Jump*. (and some others for family members but they will be excluded in this archive for personal reasons)"
-
+>"When I turned 10, I made games like *CilinderJump*, *Justified Jump*, *Dark Rings*, *FPS Jump* and *Uno Guys*. (and some others for family members but they will be excluded in this archive for personal reasons)"
 This actually game was actually quite complete! (*unlike my others*)
 It contained 3 levels, a game menu and an end screen. I created this around the time (actually before) ChronoApocalypse.
 

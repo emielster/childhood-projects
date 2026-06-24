@@ -3,7 +3,7 @@
 <img src="screenshots/main-menu.png" alt="Main menu screenshot of DR" width="400">
 <img src="screenshots/in-game.png" alt="In-game screenshot of DR" width="400">
 
-*Yeah, that is it. I remember I tried making my own RPG, but it didn't go so good.*
+*Yeah, that is it. I remember I tried making my own RPG, but it didn't get so far.*
 
 
 ![Engine](https://img.shields.io/badge/Engine-Unity-black)
@@ -14,7 +14,7 @@
 ![Year](https://img.shields.io/badge/Year-2023-yellow)
 
 >From main [README.md](../README.md): \
->"When I turned 10, I made games like *CilinderJump*, *Justified Jump*, *Dark Rings*, *FPS Jump*. (and some others for family members but they will be excluded in this archive for personal reasons)"
+When I turned 10, I made games like *CilinderJump*, *Justified Jump*, *Dark Rings*, *FPS Jump* and *Uno Guys*. (and some others for family members but they will be excluded in this archive for personal reasons) 
 
 For this game, the build is recovered, but the source code was not synchronized to the OneDrive and has been lost. 
 

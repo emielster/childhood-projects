@@ -17,7 +17,7 @@ I got immediately filled with curiosity, and decided to look for a Tutorial onli
 
 But I didn't stop there, I saw that JavaScript was also used to build cool things like websites. I watched a JavaScript, HTML and CSS tutorial on YouTube and got informed fast.
 
-I decided to build a calculator, which was my first website (or some of the first websites) that I built. I can't remember this exactly, because it is a long time ago. The calculator one is the only website I can remember.
+I decided to build a calculator, which was my first website (or one of the first websites) that I built. I can't remember this exactly, because it is a long time ago. The calculator one is the only website I can remember.
 
 I don't exactly remember what I did next, but I probably learned Luau for Roblox Studio and Python and C# for Unity.
 
@@ -36,7 +36,7 @@ But you'll never actually fully ship something. That was one of my troubles.
 
 #### Unity and Godot games
 
-When I turned 10, I made games like *CilinderJump*, *Justified Jump*, *Dark Rings*, *FPS Jump*. (and some others for family members but they will be excluded in this archive for personal reasons) 
+When I turned 10, I made games like *CilinderJump*, *Justified Jump*, *Dark Rings*, *FPS Jump*, *Uno Guys*. (and some others for family members but they will be excluded in this archive for personal reasons) 
 
 Justified Jump was a game I made for an (online) friend called JustifyDust. You can find this [at my Itch IO](https://unityemiel.itch.io/justified-jump), since I actually uploaded it at that time.
 
