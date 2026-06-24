@@ -36,9 +36,9 @@ But you'll never actually fully ship something. That was one of my troubles.
 
 #### Unity and Godot games
 
-When I turned 10, I made games like *CilinderJump*, *Justified Jump*, *Dark Rings*, *FPS Jump*, *Uno Guys*. (and some others for family members but they will be excluded in this archive for personal reasons) 
+When I turned 10, I made games like *CilinderJump*, *Justified Jump*, *Dark Rings*, *FPS Jump* and *Uno Guys*. (and some others for family members but they will be excluded in this archive for personal reasons) 
 
-Justified Jump was a game I made for an (online) friend called JustifyDust. You can find this [at my Itch IO](https://unityemiel.itch.io/justified-jump), since I actually uploaded it at that time.
+Justified Jump was a game I made for an (online) friend called JustifyDust. You can also find this [at my Itch IO](https://unityemiel.itch.io/justified-jump), since I actually uploaded it at that time.
 
 
 Additionally, I had a friend in elementary school, who was just as interested in computers as I was (or am). Together, we started plotting my first real serious game called *ChronoApocalypse*. 
@@ -131,6 +131,8 @@ Finding those files again felt like rediscovering a piece of my childhood.
 That is why I created this repository. I want to upload all of my old projects to GitHub again, because they represent an important part of my journey as a programmer.
 
 >**So my advice to every programmer:** Never delete your (old) projects, even when you don't care anymore. I was lucky enough that they were synchronized to OneDrive, but you might not be.
+
+>All of these projects are created before "vibecoding" was a thing, so they are all written by me (with 10+ StackOverflow tabs probably :p).
 
 **[↑ back to top ↑](#childhood-projects)**
 
