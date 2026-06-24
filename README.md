@@ -161,6 +161,3 @@ Which I mean, using AI to generate code is fine, you can do that, I use it too t
 But using AI and calling yourself a programming hero, is another level and I think that that shouldn't happen.
 
 Additionally, lots of people actually care too much about the tools and their privacy. I mean, if these are your priorities, go for it, but I think you should focus on actually building things, not debating what Linux distro you should use and that Windows has a lot of bloatware.
-
-Privacy is important, but I think people are exaggerating it a bit. It is not that the government installs special hardware on your computer designed to stalk you.
-
