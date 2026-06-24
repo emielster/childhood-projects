@@ -1,0 +1,11 @@
+# Discoball.exe requirements
+# Added for the archive for convinience 
+
+# This was originally not made in 2023.
+
+pyautogui
+rotate-screen
+keyboard
+plyer
+playsound
+Pillow

@@ -134,30 +134,4 @@ That is why I created this repository. I want to upload all of my old projects t
 
 **[↑ back to top ↑](#childhood-projects)**
 
-## The future of my story
-### My projects
-Currently, I am working on several **consistent** projects like Thinkify and Mint Engine. 
 
-I hope to actually finish them, *which I think will happen*, because Mint Engine is already at 10K LOC. Thinkify is also approaching 5K LOC. 
-
-As someone who also can't spend a lot of money, I find it important to have software where you don't have a paywall, where the code  is 100% open-source.
-
-So, my goal for these projects is to finish them so indie developers and myself can use them without worrying about costs.
-
-### Toughts about AI and "*techtok*"
-
-Recently, it has come to my attention that people my age are **now** actually getting in Linux and computers. Not 4 years ago, like I did. 
-
-They post TikToks on a special *subdivision* of TikTok called "TechTok", calling themself dangerous and using buzzer words to make them look smart. 
-
-And it is an absolute pain to see that, they probably don't even know what that means though they are getting more attention than me and a lot of people.
-
-They are also idolizing Terry A. Davis (*creator of Temple OS*) and Linus Torvalds (*creator of Linux*) and Mr Robot (*TV show about hacking*), as a way to signal that they know a lot about programming.
-
-They also use the term *larping* ("fake it until you make it") and *vibecoding* (making projects entirely with gen AI), to insult eachother or in some special cases, to make them look superior ([larpochka](https://www.tiktok.com/@larpu_acc)). 
-
-Which I mean, using AI to generate code is fine, you can do that, I use it too to spot a bug and fix it, and to look for idea's. But the most important thing is that you actually know what you are doing. Because with using AI you are not actually learning anything, and it is really addictive. 
-
-But using AI and calling yourself a programming hero, is another level and I think that that shouldn't happen.
-
-Additionally, lots of people actually care too much about the tools and their privacy. I mean, if these are your priorities, go for it, but I think you should focus on actually building things, not debating what Linux distro you should use and that Windows has a lot of bloatware.
