@@ -18,6 +18,8 @@ You can play the WebGL version here: [https://justifiedjump.netlify.app](https:/
 >"When I turned 10, I made games like *CilinderJump*, *Justified Jump*, *Dark Rings*, *FPS Jump* and *Uno Guys*. (and some others for family members but they will be excluded in this archive for personal reasons) 
 Justified Jump was a game I made for an (online) friend called JustifyDust. You can also find this [at my Itch IO](https://unityemiel.itch.io/justified-jump), since I actually uploaded it at that time."
 
+> **DISCLAIMER:** If you **don't** use a QWERTY keyboard the controls might not be correct, use your arrow keys instead.
+
 I had so much fun making this. It was a (half) complete game, it even had a tutorial! 
 
 Luckily, I recorded some of the progress of the game on my YouTube. 
@@ -33,6 +35,8 @@ Grappling mode "and better aim" |  <img src="screenshots/thumbnail-grappling-mod
 <!-- One day later: uhgh all of these links were all of the sudden invalid. Updated all the images to images in screenshots/ . Updated advice: don't do thnat lol!-->
 
 For this game, the build is recovered, but the source code was not synchronized to the OneDrive and has been lost. 
+
+
 
 This is an Unity game. **To play it, download the build from the [Releases](https://github.com/emielster/childhood-projects/releases/tag/justified-jump-2023) page OR you can download it on [Itch IO](https://unityemiel.itch.io/justified-jump).**
 <!-- TODO -->
