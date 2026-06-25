@@ -23,13 +23,14 @@ I had so much fun making this. It was a (half) complete game, it even had a tuto
 Luckily, I recorded some of the progress of the game on my YouTube. 
 | Part | Thumbnail | Link |
 |------|-----------|------|
-| Day 1 |  <img src="https://i9.ytimg.com/vi/4MqCetorfFs/mqdefault.jpg?sqp=CIyp8dEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEUgVyhyMA8=&rs=AOn4CLCyhgm0XsAejb3bBswZjCkEw2jB_Q" alt="Thumbnail" width="200"> | [https://youtu.be/4MqCetorfFs](https://youtu.be/4MqCetorfFs)
-| Character Upgrade! | <img src="https://i9.ytimg.com/vi_webp/D6vXTdb0I1U/mqdefault.webp?v=64d9f613&sqp=CIyp8dEG&rs=AOn4CLB7hdEQEtU2iAbTpNYVn5ZJPT9YcQ" alt="Thumbnail" width="200"> | [https://youtu.be/D6vXTdb0I1U](https://youtu.be/D6vXTdb0I1U) 
-| Added sliding/wallrunning | <img src="https://i9.ytimg.com/vi/8Liy1Ogwing/mqdefault.jpg?sqp=CIyp8dEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBkgZShlMA8=&rs=AOn4CLDGsuux1ERY3hGyhAvHFR9en0C_Wg" alt="Thumbnail" width="200"> | [https://youtu.be/8Liy1Ogwing](https://youtu.be/8Liy1Ogwing) |
-Grappling mode "and better aim" |  <img src="https://i9.ytimg.com/vi/LqjceEjSC5Q/mqdefault.jpg?sqp=CIyp8dEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGYgZihmMA8=&rs=AOn4CLB1ZDyqqcA84zgigl4gI4L0Mh6uoQ" alt="Thumbnail" width="200"> | [https://youtu.be/LqjceEjSC5Q](https://youtu.be/LqjceEjSC5Q) |
-3D audio | <img src="https://i9.ytimg.com/vi/nG6c6Om2xyA/mqdefault.jpg?sqp=CIyp8dEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGYgZihmMA8=&rs=AOn4CLCQ2WJ9Hw6TodeGBO9-uTQ1LmYzRA" alt="Thumbnail" width="200"> | https://youtu.be/nG6c6Om2xyA |
+| Day 1 |  <img src="screenshots/thumbnail-day-1.jpeg" alt="Thumbnail" width="200"> | [https://youtu.be/4MqCetorfFs](https://youtu.be/4MqCetorfFs)
+| Character Upgrade! | <img src="screenshots/thumbnail-character-upgrade.jpeg" alt="Thumbnail" width="200"> | [https://youtu.be/D6vXTdb0I1U](https://youtu.be/D6vXTdb0I1U) 
+| Added sliding/wallrunning | <img src="screenshots/thumbnail-sliding-wallrunning.jpeg" alt="Thumbnail" width="200"> | [https://youtu.be/8Liy1Ogwing](https://youtu.be/8Liy1Ogwing) |
+Grappling mode "and better aim" |  <img src="screenshots/thumbnail-grappling-mode.jpeg" alt="Thumbnail" width="200"> | [https://youtu.be/LqjceEjSC5Q](https://youtu.be/LqjceEjSC5Q) |
+3D audio | <img src="screenshots/thumbnail-audio.jpeg" alt="Thumbnail" width="200"> | https://youtu.be/nG6c6Om2xyA |
 
 <!-- For anyone reading this raw MD (who actually does this), I just use Youtube's content provider, instead of downloading it and uploading it to the repository. Its much easier. Anyways, it is like 1 AM at the time of writing this so yeah wish me good luck! -->
+<!-- One day later: uhgh all of these links were all of the sudden invalid. Updated all the images to images in screenshots/ . Updated advice: don't do thnat lol!-->
 
 For this game, the build is recovered, but the source code was not synchronized to the OneDrive and has been lost. 
 
