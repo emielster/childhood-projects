@@ -6,7 +6,7 @@
 > Some projects are unfinished or unusable. I've done my best fixing the code. You can find more information about each project in the PROJECT.md of each directory in this repository. Have fun!
 
 
-🎙️🎧 *Prefer to listen? [Hear the story](assets/childhood-projects-README.wav)*
+🎙️🎧 *Prefer to listen? [Hear the story](assets/childhood-projects-README.mp3)*
 ## Why would you visit? Why would you care?
 This archive can mean many things:
 - A portfolio of the projects I created between the ages 10-14.
