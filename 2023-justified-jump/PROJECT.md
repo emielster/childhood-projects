@@ -27,12 +27,12 @@ Luckily, I recorded some of the progress of the game on my YouTube.
 | Character Upgrade! | <img src="screenshots/thumbnail-character-upgrade.jpeg" alt="Thumbnail" width="200"> | [https://youtu.be/D6vXTdb0I1U](https://youtu.be/D6vXTdb0I1U) 
 | Added sliding/wallrunning | <img src="screenshots/thumbnail-sliding-wallrunning.jpeg" alt="Thumbnail" width="200"> | [https://youtu.be/8Liy1Ogwing](https://youtu.be/8Liy1Ogwing) |
 Grappling mode "and better aim" |  <img src="screenshots/thumbnail-grappling-mode.jpeg" alt="Thumbnail" width="200"> | [https://youtu.be/LqjceEjSC5Q](https://youtu.be/LqjceEjSC5Q) |
-3D audio | <img src="screenshots/thumbnail-audio.jpeg" alt="Thumbnail" width="200"> | https://youtu.be/nG6c6Om2xyA |
+3D audio <sub>(side note: I remember making the music, it was really fun, since I was a musician)</sub> | <img src="screenshots/thumbnail-audio.jpeg" alt="Thumbnail" width="200"> | https://youtu.be/nG6c6Om2xyA |
 
 <!-- For anyone reading this raw MD (who actually does this), I just use Youtube's content provider, instead of downloading it and uploading it to the repository. Its much easier. Anyways, it is like 1 AM at the time of writing this so yeah wish me good luck! -->
 <!-- One day later: uhgh all of these links were all of the sudden invalid. Updated all the images to images in screenshots/ . Updated advice: don't do thnat lol!-->
 
 For this game, the build is recovered, but the source code was not synchronized to the OneDrive and has been lost. 
 
-This is an Unity game. **To play it, download the build from the [Releases](https://github.com/emielster/childhood-projects/releases/tag/justified-jump-2023) page.**
+This is an Unity game. **To play it, download the build from the [Releases](https://github.com/emielster/childhood-projects/releases/tag/justified-jump-2023) page OR you can download it on [Itch IO](https://unityemiel.itch.io/justified-jump).**
 <!-- TODO -->
