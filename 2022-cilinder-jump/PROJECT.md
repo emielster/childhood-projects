@@ -1,16 +1,13 @@
-# 2022-cilinder-jump
+# 2022-cilinder-jump (⭐)
 
-<img src="screenshots/main-menu.png" alt="Main menu screenshot of CJ" width="400">
-<img src="screenshots/in-game.png" alt="In-game screenshot of CJ" width="400">
-<img src="screenshots/end-screen.png" alt="End screen screenshot of CJ" width="400">
+<div align="center">
+<img src="screenshots/main-menu.png" alt="Main menu screenshot of CJ" width="200">
+<img src="screenshots/in-game.png" alt="In-game screenshot of CJ" width="200">
+<img src="screenshots/end-screen.png" alt="End screen screenshot of CJ" width="200">
 
 
-![Engine](https://img.shields.io/badge/Engine-Unity-black)
-![Language](https://img.shields.io/badge/Language-C%23-purple)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![Genre](https://img.shields.io/badge/Genre-Obby/parkour-orange)
-![Status](https://img.shields.io/badge/Status-Build%20Recovered-green)
-![Year](https://img.shields.io/badge/Year-2022-yellow)
+![Engine](https://img.shields.io/badge/Engine-Unity-black) ![Language](https://img.shields.io/badge/Language-C%23-purple) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey) ![Genre](https://img.shields.io/badge/Genre-Obby/parkour-orange) ![Status](https://img.shields.io/badge/Status-Build%20Recovered-green) ![Year](https://img.shields.io/badge/Year-2022-yellow)
+</div>
 
 >From main [README.md](../README.md): \
 >"When I turned 10, I made games like *CilinderJump*, *Justified Jump*, *Dark Rings*, *FPS Jump* and *Uno Guys*. (and some others for family members but they will be excluded in this archive for personal reasons)"

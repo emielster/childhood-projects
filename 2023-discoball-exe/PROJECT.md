@@ -1,4 +1,4 @@
-# 2023-discoball-exe
+# 2023-discoball-exe (⭐)
 
 <img src="project/main/discoball_logo.png" alt="Logo Discoball" width="300">
 
