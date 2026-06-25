@@ -5,6 +5,21 @@
 
 > Some projects are unfinished or unusable. I've done my best fixing the code. You can find more information about each project in the PROJECT.md of each directory in this repository. Have fun!
 
+
+🎙️🎧 *Prefer to listen? [Hear the story](assets/childhood-projects-README.wav)*
+## Why would you visit? Why would you care?
+This archive can mean many things:
+- A portfolio of the projects I created between the ages 10-14.
+- A collection of code and ideas that may be useful as a resource or inspiration.
+- A *glimpse* into the mind of a young developer learning, experimenting, and building.
+- A collection of games and applications you might enjoy exploring.
+- A snapshot of how my programming began.
+- ...
+
+Because this archive holds many different projects, people may find value in it for different reasons. 
+
+For me, however, this archive represents something more personal: a missing piece of my childhood that I thought had been lost forever.
+
 ## Table of Contents
 - [My story](#my-story)
     - [Starting out](#starting-out)
@@ -42,13 +57,13 @@
 ### Starting out
 I was 8-9 when I got introduced to computers for the first time. My parents bought a Chromebook for family use at that moment.
 
-I became fascinated with computers really fast. Because it was a Chromebook, it was filled with Google stuff. That way I got into Google Apps like GMail, Google Drive and Google Slides. 
+I became fascinated with computers extremely fast. It was a Chromebook, so it came packed with Google stuff. That way I quickly got into Google Apps like GMail, Google Drive and Google Slides. 
 
-I became a master at Google Slides, and it was pretty cool at that time, not only for elementary school (*when it came to Google Slides, lots of people wanted to pair up with me*), but to make and share slides for my family. I got so good with every feature of Google Slides, that at one time I discovered a feature called "*App Scripts*".
+I became a master at Google Slides, and it was pretty cool at that time, not only for elementary school (*when it came to Google Slides, lots of people wanted to pair up with me*), but to make and share slides with my family. I got so good with every feature of Google Slides, that at one time I discovered a feature called "*App Scripts*".
 
 I clicked on it - and it was the first time in my life that I got in contact with a coding language. It was *JavaScript*, used for some advanced way of making slides. (or something like that :p)
 
-I got immediately filled with curiosity, and decided to look for a Tutorial online on how to code JavaScript. 
+I got immediately filled with curiosity, and decided to look for a t<utorial online on how to code JavaScript. 
 
 But I didn't stop there, I saw that JavaScript was also used to build cool things like websites. I watched a JavaScript, HTML and CSS tutorial on YouTube and got informed fast.
 
@@ -158,7 +173,7 @@ One of the worst decisions in my life.
 
 As far as I knew, all my projects were **gone forever**. 
 
-For more than a year, I believed that years of learning, experimenting, and building had disappeared. I tought the only evidence left of that period was an old livestream on my YouTube.
+For more than a year, I believed that years of learning, experimenting, and building had disappeared. I thought the only evidence left of that period was an old livestream on my YouTube.
 
 Until June 24 2026.
 
@@ -168,7 +183,7 @@ I *immediately* logged into OneDrive using my old e-mail.
 
 And they were there.
 
-Every project. Years of work that I tought had been lost forever, but it was quietly on OneDrive *the whole time*!
+Every project. Years of work that I thought had been lost forever, but it was quietly on OneDrive *the whole time*!
 
 Finding those files again felt like rediscovering a piece of my childhood. 
 
