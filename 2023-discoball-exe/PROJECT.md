@@ -1,12 +1,10 @@
 # 2023-discoball-exe (⭐)
 
+<div align="center">
 <img src="project/main/discoball_logo.png" alt="Logo Discoball" width="300">
 
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![Type](https://img.shields.io/badge/Type-Toy%20Virus-red)
-![Safety](https://img.shields.io/badge/Safety-Harmless-green)
-![Year](https://img.shields.io/badge/Year-2023-yellow)
+![Python](https://img.shields.io/badge/Python-3.13-blue) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey) ![Type](https://img.shields.io/badge/Type-Toy%20Virus-red) ![Safety](https://img.shields.io/badge/Safety-Harmless-green) ![Year](https://img.shields.io/badge/Year-2023-yellow)
+</div>
 
 >From main [README.md](../README.md): \
 >"Funny enough, I also created my *harmless* toy virus called Discoball.exe. When looking through the project, I find it funny that my younger self wrote: "RUN AT YOUR OWN RISK!!!", but the only thing it does is rotate your screen 180° and play some annoying music."
