@@ -1,7 +1,42 @@
 # childhood-projects
-> This is an archive of my childhood projects (when I was 10-14). This README will talk about my story, and my toughts on my future and the future of coding in general. I will also explain why this is called an "archive".
+*Never too young.* <sub>(I made this tagline when I was 11)</sub>
 
-> Some projects are unfinished or unusable. I've done my best fixing the code. You can find more information about each project in the PROJECT.md of each directory in this "umbrella" repository.
+> This is an archive of my childhood projects (when I was 10-14). This README will talk about my story, and I will explain why this is called an "archive".
+
+> Some projects are unfinished or unusable. I've done my best fixing the code. You can find more information about each project in the PROJECT.md of each directory in this repository. Have fun!
+
+## Table of Contents
+- [My story](#my-story)
+    - [Starting out](#starting-out)
+    - [Advancing as a programmer](#advancing-as-a-programmer)
+        - [Unity and Godot games](#unity-and-godot-games)
+        - [My own shortfilm](#my-own-shortfilm)
+    - [The productive period](#the-productive-period)
+        - [The Flexible Water universe](#the-flexible-water-universe)
+        - [Low level programming](#low-level-programming)
+        - [My own virus!](#my-own-virus)
+        - [In the meantime](#in-the-meantime)
+    - [The disaster](#the-disaster)
+        - [Summer of 2024](#summer-of-2024)
+        - [Regret](#regret)
+- [The future of my story](#the-future-of-my-story)
+    - [My projects](#my-projects)
+    - [My philosophy](#my-philosophy)
+
+## Projects
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [CilinderJump](2022-cilinder-jump/PROJECT.md) | A jump-based platformer game (⭐) | C# / Unity |
+| [JustifiedJump](2023-justified-jump/PROJECT.md) | A parkour game I made for a friend (⭐) | C# / Unity|
+| [Discoball.exe](2023-discoball-exe/PROJECT.md) | A *harmless* toy virus I made (⭐) | Python |
+| [FPSJump](2022-fps-jump/PROJECT.md) | A prototype with a FPS camera | C# / Unity |
+| [ChronoApocalypse](2023-chrono-apocalypse/PROJECT.md) | A story game I made with a friend | C# / Unity
+| [DarkRings](2023-dark-rings/PROJECT.md) | My attempt at making a RPG game | C# / Unity|
+| [UnoGuys](2023-uno-guys/PROJECT.md) | My attempt at making a strategy game <sub>(foreshadowing, didn't get far)</sub> | C#/Unity |
+| ... | ... | ...
+
+<sub>(⭐ indicates that this project is my favorite )</sub>
 
 ## My story
 ### Starting out
@@ -32,6 +67,9 @@ But you'll never actually fully ship something. That was one of my troubles.
 
 >Additionally, you will build a much stronger skillset in a specific domain (*that is actually valuable*), instead of having "a little bit experience of everything". Building things is one of the (*if not the*) best way to learn. This is true for almost any field, whether it's mathematics, learning a language, or programming. "You can learn how to drive a car by reading, but you'll only truly learn when you hit gas and start gaining experience."  
 
+**[↑ back to top ↑](#childhood-projects)**
+
+
 ### Advancing as a programmer
 
 #### Unity and Godot games
@@ -58,6 +96,9 @@ Here is a picture:
 *Logo I made in Blender at that time*   
 
 Unfortunately, the project ended up being abandoned.
+
+**[↑ back to top ↑](#childhood-projects)**
+
 
 ### The productive period
 
@@ -93,6 +134,9 @@ Another project I remember, "*a New Year Automatic Countdown*". I created it on 
 I also made some smaller applications, such as RoCHAT, a chat application. It was the first project I built that involved networking, and it introduced me to the idea of computers communicating with each other over a network.
 
 Another project I created was GhiyAI, which was once again made for that same friend of ChronoApocalypse. Through this project, I was introduced to machine learning for the first time. Although it was extremely limited compared to modern AI models, I just found it fascinating that I could create something that actually responds *human-like* on my own computer. 
+
+**[↑ back to top ↑](#childhood-projects)**
+
 
 ### The disaster
 #### Summer of 2024
@@ -135,5 +179,36 @@ That is why I created this repository. I want to upload all of my old projects t
 >All of these projects are created before "vibecoding" was a thing, so they are all written by me (with 10+ StackOverflow tabs probably :p).
 
 **[↑ back to top ↑](#childhood-projects)**
+
+## The future of my story
+### My projects
+<div align="center">
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="assets/mint-engine-white.png" />
+	<source media="(prefers-color-scheme: light)" srcset="assets/mint-engine-black.png" />
+	<img alt="Mint Engine" src="assets/mint-engine-white.png" width="100">
+</picture>
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="assets/thinkify-app-logo-white.png" />
+	<source media="(prefers-color-scheme: light)" srcset="assets/thinkify-app-logo-black.png" />
+	<img alt="Thinkify" src="assets/thinkify-app-logo-white.png" width="100">
+</picture>
+</div>
+
+Currently, I am working on several **consistent** projects like Thinkify and Mint Engine. 
+
+I hope to actually finish them, *which I think will happen*, because Mint Engine is already at 10K LOC. Thinkify is also approaching 5K LOC. 
+
+These projects will have no paywall, and they are completely open-source. If there is something that generally costs money, *like hosting a website*, it is on your end and it is in your control. (*like for Thinkify, you need to host a website, but you can generally do it for free*)
+
+### My philosophy
+
+I find it *extremely* important that projects are completely open-source, and that they have no paywall. 
+
+As long as I have enough money for groceries, a decent car, a decent house, I don't care about making profit.
+
+As a young developer who couldn't buy anything on the Internet, I ran into this constantly. I needed to use Photoshop, Premiere Pro, tools that should just *exist*, but they weren't free. 
+
+Any developer deserves the right to get all the tools they need for free, without a paywall. Developing should be free.
 
 
