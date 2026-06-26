@@ -9,9 +9,11 @@
 >From main [README.md](../README.md): \
 >"Funny enough, I also created my *harmless* toy virus called Discoball.exe. When looking through the project, I find it funny that my younger self wrote: "RUN AT YOUR OWN RISK!!!", but the only thing it does is rotate your screen 180° and play some annoying music."
 
-You can try the virus out yourself, it won't do any harm (*even though it says so*). You can check the source code.
+You can try the virus out yourself, it won't do any harm (*even though it says so*). You can check the source code. I also made a [quick demonstration video](https://youtu.be/gbU7xgc-c6k) where I run the virus if you don't want to run it on your own PC.
 
 >**IMPORTANT NOTE**: Most of the project files were kept as-is, although I removed some `.exe` files to make it source-code only. I also commented out the line in the source code where it shuts down your system to avoid inconvenience.
+
+
 
 ## Installation
 
