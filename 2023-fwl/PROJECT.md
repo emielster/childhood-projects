@@ -1,9 +1,10 @@
-# 2023-discoball-exe (⭐)
+# 2023-fwl (⭐) 
 
 <div align="center">
-<img src="project/main/discoball_logo.png" alt="Logo Discoball" width="300">
+<img src="screenshots/fwl_logo.ico" alt="Logo Discoball" width="300">
+<sub></sub>
 
-![Python](https://img.shields.io/badge/Python-3.13-blue) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey) ![Type](https://img.shields.io/badge/Type-Toy%20Virus-red) ![Safety](https://img.shields.io/badge/Safety-Harmless-green) ![Year](https://img.shields.io/badge/Year-2023-yellow) ![Status](https://img.shields.io/badge/Status-Files%20recovered-brightgreen)
+![Language](https://img.shields.io/badge/Language-TypeScript-blue) ![Status](https://img.shields.io/badge/Status-Files%20recovered-brightgreen) ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey) ![Year](https://img.shields.io/badge/Year-2023-yellow) ![Kit](https://img.shields.io/badge/Kit-FWK-orange)
 </div>
 
 >From main [README.md](../README.md): \
