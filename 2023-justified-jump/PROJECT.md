@@ -1,4 +1,8 @@
-# 2023-justified-jump
+# 2023-justified-jump (⭐)
+<img src="screenshots/justified-jump-logo.png" alt="JJ logo" width="400"> 
+
+<sub>I made this logo when I was 11. Just looking back at it, I didn't have the greatest photo editing skills. Lol.</sub>
+
 | WebGL                                                             | Unity Runtime |
 |-------------------------------------------------------------------|---------------|
 | <img src="screenshots/webgl-in-game.png" alt="WebGL In-game screenshot of JJ" width="400">  | <img src="screenshots/unity-runtime-in-game.png" alt="Unity Runtime In-game screenshot of JJ" width="400">
