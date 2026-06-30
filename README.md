@@ -3,7 +3,7 @@
 
 > This is an archive of my childhood projects (when I was 10-14). This README will talk about my story, and I will explain why this is called an "archive".
 
-> Some projects are unfinished or unusable. I've done my best fixing the code. You can find more information about each project in the PROJECT.md of each directory in this repository. Have fun!
+> Some projects are unfinished or unusable. I've done my best fixing the code. You can find more information about each project in the README.md of each directory in this repository. Have fun!
 
 
 🎙️🎧 *Prefer to listen? [Hear the story](assets/childhood-projects-README.mp3)* <sub>(⭐ recommended)</sub>
@@ -42,14 +42,14 @@ For me, however, this archive represents something more personal: a missing piec
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [CilinderJump](2022-cilinder-jump/PROJECT.md) | A jump-based platformer game (⭐) | C# / Unity |
-| [JustifiedJump](2023-justified-jump/PROJECT.md) | A parkour game I made for a friend (⭐) | C# / Unity|
-| [Discoball.exe](2023-discoball-exe/PROJECT.md) | A *harmless* toy virus I made (⭐) | Python |
-| [FWL](2023-fwl/PROJECT.md) | My own interpreter written in TS (⭐) | TypeScript (TS)f
-| [FPSJump](2022-fps-jump/PROJECT.md) | A prototype with a FPS camera | C# / Unity |
-| [ChronoApocalypse](2023-chrono-apocalypse/PROJECT.md) | A story game I made with a friend | C# / Unity
-| [DarkRings](2023-dark-rings/PROJECT.md) | My attempt at making a RPG game | C# / Unity|
-| [UnoGuys](2023-uno-guys/PROJECT.md) | My attempt at making a strategy game <sub>(foreshadowing, didn't get far)</sub> | C#/Unity |
+| [CilinderJump](2022-cilinder-jump/README.md) | A jump-based platformer game (⭐) | C# / Unity |
+| [JustifiedJump](2023-justified-jump/README.md) | A parkour game I made for a friend (⭐) | C# / Unity|
+| [Discoball.exe](2023-discoball-exe/README.md) | A *harmless* toy virus I made (⭐) | Python |
+| [FWL](2023-fwl/README.md) | My own interpreter written in TS (⭐) | TypeScript (TS)f
+| [FPSJump](2022-fps-jump/README.md) | A prototype with a FPS camera | C# / Unity |
+| [ChronoApocalypse](2023-chrono-apocalypse/README.md) | A story game I made with a friend | C# / Unity
+| [DarkRings](2023-dark-rings/README.md) | My attempt at making a RPG game | C# / Unity|
+| [UnoGuys](2023-uno-guys/README.md) | My attempt at making a strategy game <sub>(foreshadowing, didn't get far)</sub> | C#/Unity |
 | ... | ... | ...
 
 <sub>(⭐ indicates that this project is my favorite )</sub>
