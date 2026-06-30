@@ -1,0 +1,28 @@
+// This is a comment. It will be ignored by the language. You can type here whatever you want. To start a comment: use '//'
+// The comment ends on a new line. To fix this problem, you can use this:
+/$ 
+    This is a comment block.
+    It supports mutiple lines.
+    You can start it by: 
+    '/' and a dollar sign. 
+    And to end it,
+    use '/' and a dollar sign.
+    WARNING: This comment is not well supported. If you type a dollar sign in the comment, the parser thinks that you'll end the comment.
+$/
+
+/$ To declare a variable, use 'say'. If you don't know what a variable is, you can think about it like a reference word. If you call that name, 
+    it will use the value assigned to the variable:
+$/
+// SYNTAX: 'say <NAME> = <VALUE>;'
+say msg = "Hello, world!"; // <= why a semicolon? it means that you end the line. It is only at variable declarations and changing. 
+// Why two quotation marks? If you use this, it means that that is a phrase or a word. For a number, you cannot use the quotation marks:
+say number = 53;
+// Now, lets print it!
+println(msg, number);
+// What is this? Well, you give the user a message with the variable 'msg' and 'number'. Why open and end parenthesis? Well, it means that you pass arguments in the global function. =>
+//  What is that? println is the function. You 'do' that function to print something to the user. '(' and ')' means what you PASS with the function.
+// In this case, that is our variable msg and number. Lets run it!
+// To run a FWL script, use Deno: 
+// (Make sure you have installed it: do a quick google search and you'll find it)
+// deno run -A ../../run.ts basics.fwl 
+// And boom! You'll see Hello, world!, and 53!

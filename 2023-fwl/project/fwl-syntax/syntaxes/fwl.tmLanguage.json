@@ -1,0 +1,100 @@
+{
+	"$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+	"name": "FWL",
+	"patterns": [
+		{
+			"include": "#comments"
+		},
+		{
+			"include": "#operators"
+		},
+		{
+			"include": "#strings"
+		},
+		{
+			"include": "#numbers"
+		},
+		{
+			"include": "#reserved-words"
+		},
+		{
+			"include": "#ctr-statements"
+		}
+	],
+	"repository": {
+		"comments": {
+			"patterns": [
+				{
+					"captures": {
+						"0": {
+							"name": "punctuation.definition.comment.fwl"
+						}
+					},
+					"match": "/\\$\\$/",
+					"name": "comment.block.empty.fwl"
+				},
+				{
+					"include": "#comments-inline"
+				}
+
+			]
+		},
+		"comments-inline": {
+			"patterns": [
+				{
+					"begin": "/\\$",
+					"captures": {
+						"0": {
+							"name": "punctuation.definition.comment.fwl"
+						}
+					},
+					"end": "\\$/",
+					"name": "comment.block.fwl"
+				},
+				{
+					"begin": "(^[  \\t]+)?(?=//)",
+					"beginCaptures": {
+						"1": {
+							"name": "punctuation.whitespace.comment.leading.fwl"
+						}
+					},
+					"end": "(?!\\G)",
+					"patterns": [
+						{
+							"begin": "//",
+							"beginCaptures": {
+								"0": {
+									"name": "punctuation.definition.comment.fwl"
+								}
+							},
+							"end": "\\n",
+							"name": "comment.line.double-slash.fwl"
+						}
+					]
+				}
+			]
+		},
+		"ctr-statements": {
+			"patterns": [{
+				"name": "keyword.control.fwl",
+				"match": "\\b(if|while|for|return|task)\\b"
+			}]
+		},
+		"strings": {
+			"name": "string.quoted.double.fwl",
+			"begin": "\"",
+			"end": "\"",
+			"patterns": [
+				{
+					"name": "constant.character.escape.fwl",
+					"match": "\\\\."
+				}
+			]
+		},
+		"reserved-words": {
+			"match": "\\b(println|true|false|null|say|whis|yell|drop|to|rec|down|del|input)\\b",
+			"name": "entity.name.function.member.fwl"
+		}
+	},
+	"scopeName": "source.fwl"
+}

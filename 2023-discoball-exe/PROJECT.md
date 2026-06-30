@@ -20,9 +20,9 @@ You can try the virus out yourself, it won't do any harm (*even though it says s
 Clone the git repository:
 ```bash
 git clone https://github.com/emielster/childhood-projects.git
-cd 2023-discoball-exe/project
+cd childhood-projects/2023-discoball-exe/project
 ```
-
+    
 You'll need `python` installed and `pip` installed.
 The process is very straightfoward:
 ```bash

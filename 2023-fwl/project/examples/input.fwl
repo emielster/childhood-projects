@@ -1,0 +1,7 @@
+say x = 5;
+
+task print(x) {
+    println(x);
+};
+
+print(x);

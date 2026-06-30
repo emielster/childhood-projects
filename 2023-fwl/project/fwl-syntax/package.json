@@ -1,0 +1,41 @@
+{
+  "name": "fwl",
+  "displayName": "FWL Syntax",
+  "description": "This adds support for the FWL Syntax!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "fwl",
+        "aliases": [
+          "FWL",
+          "fwl"
+        ],
+        "extensions": [
+          ".fwl"
+        ],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "fwl",
+        "scopeName": "source.fwl",
+        "path": "./syntaxes/fwl.tmLanguage.json"
+      }
+    ]
+  },
+  "main": "./src/extension.js",
+  "activationEvents": [
+    "onLanguage:fwl"
+  ],
+  "devDependencies": {
+    "vscode": "^1.1.37"
+  }
+}
