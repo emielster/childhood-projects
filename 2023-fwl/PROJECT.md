@@ -12,7 +12,7 @@
 
 FWL is an *expressive* language I designed when I was 11, and in this project I made an interpreter for it written in TypeScript. (Deno) 
 
-I have tried my best to fix certain inconsistensies like not needing a `;` for call expressions, whilst you **do** need it for variable declarations. Additionally, I actually made a FWL syntax highlighting VSCode extension for this language when I was 11. (This too will be included in this project, you can find how to install it in here too)
+I have tried my best to fix certain inconsistensies like not needing a `;` for call expressions, whilst you **do** need it for variable declarations. Additionally, I actually made a syntax highlighting extension for this language when I was 11. (This too will be included in this project, you can find how to install it in here too)
 
 
 ## Installation
@@ -72,10 +72,11 @@ Additionally, if you run `run.ts` (`deno run -A run.ts <file_path>`) the interpr
 ## Syntax highlighting
 Here is how to install the Syntax Highlighting extension for Visual Studio Code:
 ### "Just use it" (easy way ⭐)
-I have provided a `.vsix` file that can be used to add the extension to Visual Studio Code: 
-
+I have provided a `.vsix` file that can be used to add the extension to Visual Studio Code. Find it at the [Releases](https://github.com/emielster/childhood-projects/releases/tag/fwl-syntax-highlighting-2023) page.
 
 ### Build it (hard way)
+
+If you want to build the `.vsix` file from the source code:
 ```bash
 npm install
 ```
