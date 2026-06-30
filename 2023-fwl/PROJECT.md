@@ -12,9 +12,12 @@
 
 FWL is an *expressive* language I designed when I was 11, and in this project I made an interpreter for it written in TypeScript. (Deno) 
 
-I have tried my best to fix certain inconsistensies like not needing a `;` for call expressions, whilst you **do** need it for variable declarations. Additionally, I actually made a syntax highlighting extension for this language when I was 11. (This too will be included in this project, you can find how to install it in here too)
+I have tried my best to fix certain inconsistensies like not needing a `;` for call expressions, whilst you **do** need it for variable declarations. 
+Additionally, I actually made a syntax highlighting extension for this language when I was 11. (This too will be included in this project, you can find how to install it in here too)
 
+>**IMPORTANT NOTE**: Most of the project files were kept as-is. This means that error messages might have broken English and they might be inconsistent. 
 
+You can find the documentation of this language [here](documentation/variables.md). 
 ## Installation
 
 ### 1. Deno
@@ -76,7 +79,21 @@ I have provided a `.vsix` file that can be used to add the extension to Visual S
 
 ### Build it (hard way)
 
-If you want to build the `.vsix` file from the source code:
+If you want to build the `.vsix` file from the source code: <sub>(seriously, why 😭...)</sub>
+#### 1. Change directory:
+```bash
+cd fwl-syntax
+```
+#### 2. Install node modules:
 ```bash
 npm install
 ```
+#### 3. Package it:
+```bash
+npx @vscode/vsce package
+```
+This will generate a `.vsix` file in the current directory.
+#### 4. Install the extension:
+```bash
+code --install-extension fwl-0.0.1.vsix
+``` 
