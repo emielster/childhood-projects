@@ -134,7 +134,7 @@ I remember that I spent the entire summer working on it, even when I was on vaca
 
 At the same time, I became fascinated by lower-level programming and computer systems. Instead of only building games and applications, I wanted to understand how computers actually worked. This curiosity eventually led me to experiment with operating system development.
 
-Learning assembly, writing my own *toy* bootloader and kernel taught me a lot. It feels that a computer is an universal language and once you *grasp* that fundamental concept about low level computing you can understand everything else more easily.   
+Learning assembly, writing my own *toy* bootloader and kernel taught me a lot. I think that a computer is an universal language and once you *grasp* that fundamental concept about low level computing you can understand everything else more easily.   
 
 #### My own virus!
 

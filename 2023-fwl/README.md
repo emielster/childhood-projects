@@ -17,7 +17,7 @@ Additionally, I actually made a syntax highlighting extension for this language 
 
 >**IMPORTANT NOTE**: Most of the project files were kept as-is. This means that error messages might have broken English and they might be inconsistent. 
 
-You can find the documentation of this language [here](documentation/variables.md). 
+You can find the documentation of this language [here](documentation/overview.md). 
 ## Installation
 
 ### 1. Deno
