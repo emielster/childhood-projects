@@ -155,6 +155,16 @@ println(string); // outputs a string to the console
 println("Hello, world!"); // output: "Hello, world!"
 ```
 
+You can also pass multiple strings as `arguments`!
+```fwl
+println("Hello", "world!"); 
+/$ output:
+Hello
+world!
+$/
+```
+Multiple strings that are printed out are  seperated with a newline.
+
 #### 2. Input 
 ```fwl
 input(message); // outputs the message and waits for input
