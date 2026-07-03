@@ -8,7 +8,7 @@ A `task` or `function` is one of the first concepts that breaks this simple "top
 ## Understanding it
 Like in the [variable](variables.md) documentation, I made two ways of how you can understand functions.  
 
-<sub>(understand it already? click [here](#tasks-in-fwl))</sub>
+<sub>(understand it already? click [here](#understanding-the-bigger-picture))</sub>
 
 ### 1. Via mathematics <sub>(⭐ much easier to understand)</sub>
 
