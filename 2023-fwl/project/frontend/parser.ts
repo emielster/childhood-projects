@@ -207,10 +207,7 @@ export default class Parser {
             }
         }
         this.expect(TokenType.CloseBrace, "Object literal missing closing  brace.");
-        // EDIT: semicolons after {} should be optional
-        if (this.at().type == TokenType.Semicolon) {
-            this.eat();
-        }
+
         return { kind: "ObjectLiteral", properties } as ObjectLiteral;
     }
 

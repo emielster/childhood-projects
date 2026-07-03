@@ -189,7 +189,7 @@ session_token = log_in(); // log back in!
 ```
 
 
-> **ADVANCED FYI**: `down` and `rec` is basically setting the `variable` to `null` in modern languages. My goal with FWL is to basically be a bridge to learning *C++*, so a silent variable is the equivalent to a `pointer` in C++, it can be `delete`d, it can be set to `nullptr`. 
+> **ADVANCED FYI**: `down` and `rec` is basically setting the `variable` to `null` in modern languages. My goal with FWL is to basically be a bridge to learning *C++*, so a silent variable is the equivalent to a `pointer` in C++, it can be `delete`d, it can be set to `nullptr`. But silent variables are much simpler, meant as a learning source for beginners. They also force you to think about lifetime, preparing you for C++ and other memory-explicit languages. 
 
 ## Changing variable type
 

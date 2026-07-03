@@ -1,14 +1,4 @@
 // Not apart of the FWL 2026 archive documentation.
 // I created this file when I was developing the language in 2023.
-whis x = input("Enter a value: ");
 
-down x;
-
-task print(x) {
-    println(x);
-};
-
-
-whis x = 5;
-
-print(x);
+println("Hello World!");
