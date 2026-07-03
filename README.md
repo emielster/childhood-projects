@@ -11,14 +11,15 @@
 This archive can mean many tings:
 - A portfolio of the projects I created between the ages 10-14.
 - A collection of code and ideas that may be useful as a resource or inspiration.
-- A *glimpse* into the mind of a young developer learning, experimenting, and building.
+- An exploration into the mind of a young developer.
 - A collection of games and applications you might enjoy exploring.
 - A snapshot of how my programming began.
+- A tutorial of how to program with my FWL language.
 - ...
 
 Because this archive holds many different projects, people may find value in it for different reasons. 
 
-For me, however, this archive represents something more personal: a missing piece of my childhood that I thought had been lost forever.
+For me, however, this archive represents something more personal. That is, a missing piece of my childhood that I thought had been lost forever.
 
 ## Table of Contents
 - [My story](#my-story)
