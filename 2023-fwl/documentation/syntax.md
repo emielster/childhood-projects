@@ -22,7 +22,7 @@ action2;
 Notice how I've been using `action` for each line? Well, in reality in `FWL` you'll either mostly do:
 
 ### A declaration
-A declaration creates something that can be used later in the program.
+A declaration defines something that can be used later in the program.
 
 For example:
 
