@@ -38,6 +38,8 @@ task do_something() {
     ...
 };
 ```
+
+<sub>(see [tasks](tasks.md) FYI)</sub>
 ### A call expression
 
 This is when you send the interpreter to another line. To understand this fully, see my [task](tasks.md) documentation.
