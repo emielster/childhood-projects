@@ -4,7 +4,7 @@
 
 ## Basic principle of programming
 
-When writing code, you do an action each line. The `interpreter` <sub>(program that interprets the raw text file and produces output in the console)</sub>  goes down line by line and by doing so, it executes the `action` <sub>(or instruction)</sub> from that line.
+When writing code, you do an action each line. The `interpreter` <sub>(program that interprets the raw text file and produces output)</sub>  goes down line by line and by doing so, it executes the `action` <sub>(or instruction)</sub> from that line.
 
 <img src="assets/interpreter-line-by-line.png" width="200">
 
