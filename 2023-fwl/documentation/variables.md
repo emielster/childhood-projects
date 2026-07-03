@@ -161,7 +161,7 @@ rec x; // ERROR!
 
 You might think: "But where will I possibly use it?". You can think of a silent variable like a `state machine`. 
 
-Imagine this scenario. You have a variable called `session-token` that holds the token of when you log in, and each time you do an action and thus need to communicate with  the `server`, you show that `session-token` to show who you are.
+Imagine this scenario. You have a variable called `session_token` that holds the token of when you log in, and each time you do an action and thus need to communicate with  the `server`, you show that `session_token` to show who you are.
 
 
 <img src="assets/example-silent-variables.png" width="350">
