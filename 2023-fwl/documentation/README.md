@@ -26,9 +26,9 @@ cd 2023-fwl/
 
 | Title | Description | How to run |
 |-------|-------------|------------|
-| ***`greeting.fwl`*** | Asks for name, then greets you. Cute! | `deno run -A project/run.ts documentation/examples/greeting.fwl` |
-| ***`next_year.fwl`*** | Says how old you will be next year. Please configure the variables to fit your data! | `deno run -A project/run.ts documentation/examples/next_year.fwl`
-| ***`object.fwl`*** | Prints out an object. Please configure the variables to fit your data! | `deno run -A project/run.ts documentation/examples/object.fwl` |
+| [***`greeting.fwl`***](examples/greeting.fwl) | Asks for name, then greets you. Cute! | `deno run -A project/run.ts documentation/examples/greeting.fwl` |
+| [***`next_year.fwl`***](examples/next_year.fwl) | Says how old you will be next year. Please configure the variables to fit your data! | `deno run -A project/run.ts documentation/examples/next_year.fwl`
+| [***`object.fwl`***](examples/object.fwl) | Prints out an object. Please configure the variables to fit your data! | `deno run -A project/run.ts documentation/examples/object.fwl` |
 
 ## What is missing from `FWL`
 
