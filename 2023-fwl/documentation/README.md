@@ -8,7 +8,7 @@ Welcome to the FWL documentation. I've tried my best documenting the language, s
 ## Documentation Overview
 | Title | Description |
 |-------|-------------|
-| [Syntax](syntax.md) | Rules to follow when writing code. The spelling of the language.
+| [Syntax](syntax.md) <sub>(⭐ starting point)</sub> | Rules to follow when writing code. The spelling of the language.
 | [Variables](variables.md)<sub>(whis, say, yell)</sub> | A brief introduction to variables, variable types, and how you can use them.
 | [Tasks](tasks.md)<sub>(AKA functions)</sub>  | What are tasks and how can you use them?|
 | [Built-in](built-in.md) | All built-in tasks<sub>(AKA functions)</sub> in the language | 
