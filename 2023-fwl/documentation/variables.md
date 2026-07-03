@@ -87,7 +87,7 @@ This is a fun and genius concept and it is the base of complex progams.
 ## Variables in FWL
 In `FWL` <sub>(and many more languages)</sub> you have two variable types:
 
-### changeable variables
+### Changeable variables
 These are variables that can be assigned to any value, wherever you want. These are the most common.
 
 In pseudocode:
