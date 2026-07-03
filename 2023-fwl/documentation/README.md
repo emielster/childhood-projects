@@ -15,6 +15,21 @@ Welcome to the FWL documentation. I've tried my best documenting the language, s
 | [Additional](additional.md) | Additional information: *comments, operators, objects, ...*|
 | [Overview](overview.md) | A well-organized overview of every *keyword, sign and data types* 
 
+## Examples Overview
+
+I have provided 3 examples in the `examples/` directory.
+
+Please make sure you are in the `2023-fwl/` directory:
+```bash
+cd 2023-fwl/
+```
+
+| Title | Description | How to run |
+|-------|-------------|------------|
+| ***`greeting.fwl`*** | Asks for name, then greets you. Cute! | `deno run -A project/run.ts documentation/examples/greeting.fwl` |
+| ***`next_year.fwl`*** | Says how old you will be next year. Please configure the variables to fit your data! | `deno run -A project/run.ts documentation/examples/next_year.fwl`
+| ***`object.fwl`*** | Prints out an object. Please configure the variables to fit your data! | `deno run -A project/run.ts documentation/examples/object.fwl` |
+
 ## What is missing from `FWL`
 
 - `return` statements, as mentioned in the [task](tasks.md#what-is-missing-from-fwl-return-statements) documentation.

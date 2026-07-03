@@ -1,0 +1,17 @@
+// Small object example
+/$
+How to run:
+```bash
+cd 2023-fwl/
+deno run -A project/run.ts documentation/examples/object.fwl
+```
+$/
+
+say obj = {
+    user: "Larpochka", // PLEASE MODIFY ME!
+    age: 15 // PLEASE MODIFY ME!
+};
+
+println("Hello", obj.user);
+println("You are ", obj.age);
+println("years old.");

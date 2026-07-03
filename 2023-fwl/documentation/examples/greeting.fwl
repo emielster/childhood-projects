@@ -1,0 +1,12 @@
+// Simple greeting program 
+/$
+How to run:
+```bash
+cd 2023-fwl/
+deno run -A project/run.ts documentation/examples/greeting.fwl
+```
+$/
+
+say name = input("Hello, what is your name?:");
+
+println("Nice to meet you, ", name, "!");
