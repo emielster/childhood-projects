@@ -1,6 +1,6 @@
 # fwl-documentation-syntax
 
-> **TIP**: If you have never written code before, this might be useful to read. Otherwise, you'll probably follow it naturally.
+> **TIP**: If you have never written code before, this might be useful to read. Otherwise, you'll probably have no problems understanding the syntax naturally.
 
 ## Basic principle of programming
 
