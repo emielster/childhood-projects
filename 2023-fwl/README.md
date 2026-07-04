@@ -2,6 +2,7 @@
 
 <div align="center">
 <img src="project/images/fwl_logo.ico" alt="Logo FWL" width="300">
+<img src="screenshots/coding-in-fwl-screenshot.png" alt="Coding in FWL" width="500" >   
 <sub></sub>
 
 ![Language](https://img.shields.io/badge/Language-TypeScript-blue) ![Status](https://img.shields.io/badge/Status-Files%20recovered-brightgreen) ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey) ![Year](https://img.shields.io/badge/Year-2023-yellow) ![Kit](https://img.shields.io/badge/Kit-FWK-orange)
