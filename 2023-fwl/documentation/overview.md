@@ -29,7 +29,7 @@ Here is a quick overview of every keyword, sign and each data type:
 `(` <sub>*and*</sub> `)`<sub>[see tasks](tasks.md)</sub> | Used for call expressions | `f`***`(`***`3`***`)`***`;`
 | `{` <sub>*and*</sub> `}`<sub>[see tasks](tasks.md)</sub>| Used for the body declaration of tasks | `task f(x) `***`{`***` x + 3; `***`}`***`;` |
 | `{` <sub>*and*</sub> `}`<sub>[see additional](additional.md)</sub> | Used for the declerations of objects | `say obj = `***`{`***`msg: "hello"`***`}`***`;` |
-| `:`<sub>[see additional](additional.md)</sub> | Used for assignment of a value to an element in an object | `say obj = { msg`***`:`***` "hello" }` |
+| `:`<sub>[see additional](additional.md)</sub> | Used for assignment of a value to an element in an object | `say obj = { msg`***`:`***` "hello" };` |
 `"` <sub>[see variables](variables.md)</sub> | Used for the creation of strings | `say str = `***`"`***`Hello, world!`***`"`***`;` 
 `;` <sub>[see syntax](syntax.md)</sub> | At the end of each line/action| `say x = 5`***`;`*** |
 `//` <sub>[see additional](additional.md)</sub> | Used for single line comments | ***`//`***`this is a comment` |
