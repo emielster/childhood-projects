@@ -128,7 +128,7 @@ That is all a `return` statement really does. It gives back a value back to the 
 
 You might think: `"okay, all good and well, but how do I start interacting with the user instead of only doing mathematics"`. This is usually the fun moment.
 
-To solve this: `FWL` provides several `built-in` tasks. You can find a brief overview at [built-in](built-in.md). These are tasks that essentially "`reach out of the box`", declared by `FWL` before any code is even ran!
+To solve this: `FWL` provides several `built-in` tasks. You can find a brief overview at [built-in](../reference/built-in.md). These are tasks that essentially "`reach out of the box`", declared by `FWL` before any code is even ran!
 
 The most important ones are:
 ####  1. Output

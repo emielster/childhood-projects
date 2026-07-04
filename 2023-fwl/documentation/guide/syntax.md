@@ -6,9 +6,9 @@
 
 When writing code, you do an action each line. The `interpreter` <sub>(program that interprets the raw text file and produces output)</sub>  goes down line by line and by doing so, it executes the `action` <sub>(or instruction)</sub> from that line.
 
-<img src="assets/interpreter-line-by-line.png" width="200">
+<img src="../assets/interpreter-line-by-line.png" width="200">
 
-Thats all. You can also have a `compiler` but I wont go into these since FWL doesn't use it. 
+Thats all. You can also have a `compiler` but I wont go into these since FWL doesn't use it. You can read more about that in the [how it works](../internals/how-it-works.md) doocumentation.
 
 ## The semicolon (our biggest enemy)
 In `FWL` <sub>(and most programming languages like C and C++, ...)</sub> you end each line with a `;` <sub>semicolon</sub>. 

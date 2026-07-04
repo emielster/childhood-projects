@@ -53,15 +53,15 @@ Both `x` and `y` are variables because they are names that refer to values.
 
 Imagine a box labeled `x`.
 
-<img src="assets/box-labeled-x.png" width="200">
+<img src="../assets/box-labeled-x.png" width="200">
 
 Now you put a `5` in the box:
 
-<img src="assets/box-labeled-x-with-5.png" width="200">
+<img src="../assets/box-labeled-x-with-5.png" width="200">
 
 You can also take out the `5` and put in a `3`:
 
-<img src="assets/box-labeled-x-with-3.png" width="200">
+<img src="../assets/box-labeled-x-with-3.png" width="200">
 
 Now `x` is equal to `3`. `x` is thus changeable <sub>(meaning you can put any value in it)</sub>. 
 
@@ -164,7 +164,7 @@ You might think: "But where will I possibly use it?". You can think of a silent 
 Imagine this scenario. You have a variable called `session_token` that holds the token of when you log in, and each time you do an action and thus need to communicate with  the `server`, you show that `session_token` to show who you are.
 
 
-<img src="assets/example-silent-variables.png" width="350">
+<img src="../assets/example-silent-variables.png" width="350">
 
 But then, you log out. So, you `down` the silent variable. This is because the `server` invalidates your token, so using it in the code while you're logged out results in undefined behaviour. `down` makes the variable unusable until you `rec`over it.
 

@@ -1,9 +1,9 @@
 # fwl-documentation-built-in
 
-> Please read the [task](tasks.md) documentation first to understand this.
+> Please read the [task](../guide/tasks.md) documentation first to understand this.
 
 
-As mentioned in the [task](tasks.md) documentation, there are several built-in tasks I made for the language.
+As mentioned in the [task](../guide/tasks.md) documentation, there are several built-in tasks I made for the language.
 
 Here is a brief overview:
 
