@@ -9,7 +9,7 @@
 </div>
 
 >From main [README.md](../README.md): \
->One of the biggest projects from that time was the "FW" Universe. It started as a simple idea (*FWL*, my own interpreter written in TypeScript), but it gradually grew into a much larger project (*FWK*, a "kit" containing all FW-products), including an IDE (*FWIDE*), OS (*FWOS*, more on that later) and a NewScraper (*FWP??*) (although some of these projects were developed later). One of my favorite things about FWL was its syntax. Instead of using traditional keywords, I tried to make the language more *expressive*: `say` created normal variables, `yell` created constants, `whisper` created silent variables that could be overwritten or deleted. I remember that I spent the entire summer working on it, even when I was on vacation. It shows my passion for programming.
+>One of the biggest projects from that time was the "FW" Universe. It started as a simple idea (**FWL**, my own interpreter written in TypeScript), but it gradually grew into a much larger project (*FWK*, a "kit" containing all FW-products), including an IDE (*FWIDE*), OS (*FWOS*, more on that later) and a NewScraper (*FWP??*) (although some of these projects were developed later). One of my favorite things about **FWL** was its syntax. Instead of using traditional keywords, I tried to make the language more *expressive*: `say` created normal variables, `yell` created constants, `whisper` created silent variables that could be overwritten or deleted. I remember that I spent the entire summer working on it, even when I was on vacation. It shows my passion for programming.
 
 FWL is an *expressive* language I designed when I was 11, and in this project I made an interpreter for it written in TypeScript. (Deno) 
 

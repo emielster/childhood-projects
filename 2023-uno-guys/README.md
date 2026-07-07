@@ -10,7 +10,7 @@
 </div>
 
 >From main [README.md](../README.md): \
->"When I turned 10, I made games like *CilinderJump*, *Justified Jump*, *Dark Rings*, *FPS Jump*. (and some others for family members but they will be excluded in this archive for personal reasons)"
+>"When I turned 10, I made games like *CilinderJump*, *Justified Jump*, *Dark Rings*, *FPS Jump* and **Uno Guys**. (and some others for family members but they will be excluded in this archive for personal reasons)"
 
 I actually remember developing this game.
 > **A piece of advice:** If you are developing a game, **start with your actual core game mechanics**, not something like the splash screen or main menu. I did this a lot because I found it really fun to make these. But then, when it was time to start with the actual game, I quit the development because it was hard and difficult.

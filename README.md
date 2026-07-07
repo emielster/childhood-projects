@@ -8,10 +8,9 @@
 
 🎙️🎧 *Prefer to listen? [Hear the story](assets/childhood-projects-README.mp3)* <sub>(⭐ recommended)</sub>
 ## Why would you visit? Why would you care?
-This archive can mean many tings:
+This archive can mean many things:
 - A portfolio of the projects I created between the ages 10-14.
 - A collection of code and ideas that may be useful as a resource or inspiration.
-- An exploration into the mind of a young developer.
 - A collection of games and applications you might enjoy exploring.
 - A snapshot of how my programming began.
 - A tutorial of how to program with my FWL language.
@@ -125,7 +124,7 @@ For whatever reason, I became completely obsessed with building things. I spent 
 
 #### The Flexible Water universe
 
-One of the biggest projects from that time was the "FW" Universe. It started as a simple idea (*FWL*, my own interpreter written in TypeScript), but it gradually grew into a much larger project (*FWK*, a "kit" containing all FW-products), including an IDE (*FWIDE*), OS (*FWOS*, more on that later) and a NewScraper (*FWP??*) (although some of these projects were developed later). 
+One of the biggest projects from that time was the "FW" Universe. It started as a simple idea (*FWL*, my own interpreter written in TypeScript), but it gradually grew into a much larger project (*FWK*, a "kit" containing all FW-products), including an IDE (*FWIDE*), OS (*FWOS*) and a NewScraper (*FWP??*) (although some of these projects were developed later). 
 
 One of my favorite things about FWL was its syntax. Instead of using traditional keywords, I tried to make the language more *expressive*: `say` created normal variables, `yell` created constants, `whisper` created silent variables that could be overwritten or deleted. 
 
@@ -181,7 +180,7 @@ Until June 24 2026.
 
 I decided to watch that livestream again, and I saw that I opened File Explorer and that I had OneDrive.
 
-I *immediately* logged into OneDrive using my old e-mail. 
+I logged into OneDrive using my old e-mail. 
 
 And they were there.
 

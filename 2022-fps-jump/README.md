@@ -10,7 +10,7 @@
 </div>
 
 >From main [README.md](../README.md): \
->"When I turned 10, I made games like *CilinderJump*, *Justified Jump*, *Dark Rings*, *FPS Jump* and *Uno Guys*. (and some others for family members but they will be excluded in this archive for personal reasons)"
+>"When I turned 10, I made games like *CilinderJump*, *Justified Jump*, *Dark Rings*, **FPS Jump** and *Uno Guys*. (and some others for family members but they will be excluded in this archive for personal reasons)"
 
 For this game, the build is recovered, but the source code was not synchronized to the OneDrive and has been lost. 
 

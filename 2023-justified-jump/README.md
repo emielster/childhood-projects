@@ -19,7 +19,7 @@ You can play the WebGL version here: [https://justifiedjump.netlify.app](https:/
 ![Year](https://img.shields.io/badge/Year-2023-yellow)
 
 >From main [README.md](../README.md): \
->"When I turned 10, I made games like *CilinderJump*, *Justified Jump*, *Dark Rings*, *FPS Jump* and *Uno Guys*. (and some others for family members but they will be excluded in this archive for personal reasons) 
+>"When I turned 10, I made games like *CilinderJump*, **Justified Jump**, *Dark Rings*, *FPS Jump* and *Uno Guys*. (and some others for family members but they will be excluded in this archive for personal reasons) 
 Justified Jump was a game I made for an (online) friend called JustifyDust. You can also find this [at my Itch IO](https://unityemiel.itch.io/justified-jump), since I actually uploaded it at that time."
 
 > **DISCLAIMER:** If you **don't** use a QWERTY keyboard the controls might not be correct, use your arrow keys instead.
