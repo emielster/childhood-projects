@@ -5,20 +5,16 @@
 
 > Some projects are unfinished or unusable. I've done my best fixing the code. You can find more information about each project in the README.md of each directory in this repository. Have fun!
 
-
-🎙️🎧 *Prefer to listen? [Hear the story](assets/childhood-projects-README.mp3)* <sub>(⭐ recommended)</sub>
-## Why would you visit? Why would you care?
-This archive can mean many things:
+## Why would you visit?
+This is a:
 - A portfolio of the projects I created between the ages 10-14.
 - A collection of code and ideas that may be useful as a resource or inspiration.
 - A collection of games and applications you might enjoy exploring.
 - A snapshot of how my programming began.
-- A tutorial of how to program with my FWL language.
+- A tutorial of how to program with my FWL "language".
 - ...
 
-Because this archive holds many different projects, people may find value in it for different reasons. 
-
-For me, however, this archive represents something more personal. That is, a missing piece of my childhood that I thought had been lost forever.
+Because this archive holds many different projects, you may find value in it for different reasons. 
 
 ## Table of Contents
 - [My story](#my-story)
@@ -168,7 +164,7 @@ After the summer, I got busy with school and I didn't do much.
 
 But then, in the winter of 2024, I finally got a new PC. At the time, I believed my old laptop had served it purpose. Most of my projects were still on it, but I didn't think much of it and eventually **sold it**.
 
-Around the same time, I also decided to delete my old GitHub account (https://github.com/Emielster). The reason was that it said that I was 11 years old, even though I wasn't.
+Around the same time, I also decided to delete my old GitHub account (https://github.com/Emielster). The reason was that it said that I was 11 years old, even though I wasn't, and I didn't want that people thought I was 11.
 
 One of the worst decisions in my life.
 
@@ -182,11 +178,9 @@ I decided to watch that livestream again, and I saw that I opened File Explorer 
 
 I logged into OneDrive using my old e-mail. 
 
-And they were there.
+And they were there. 
 
 Every project. Years of work that I thought had been lost forever, but it was quietly on OneDrive *the whole time*!
-
-Finding those files again felt like rediscovering a piece of my childhood. 
 
 That is why I created this repository. I want to upload all of my old projects to GitHub again, because they represent an important part of my journey as a programmer.
 
